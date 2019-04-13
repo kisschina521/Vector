@@ -1,0 +1,15 @@
+﻿Build started 2019/4/13 10:55:03.
+     1>Project "D:\C++\LG1214\lg20190217\C++\Vector\Vector.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\DXF\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Vector.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /wd4430 main.cpp
+         main.cpp
+       Link:
+         D:\DXF\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++\LG1214\lg20190217\C++\Vector\Debug\Vector.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\C++\LG1214\lg20190217\C++\Vector\Debug\Vector.pdb" /SUBSYSTEM:CONSOLE,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++\LG1214\lg20190217\C++\Vector\Debug\Vector.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\main.obj
+         Debug\vector.obj
+         Vector.vcxproj -> D:\C++\LG1214\lg20190217\C++\Vector\Debug\Vector.exe
+     1>Done Building Project "D:\C++\LG1214\lg20190217\C++\Vector\Vector.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.58
